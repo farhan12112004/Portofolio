@@ -1,5 +1,4 @@
 // Toggle & Responsive Navigation
-alert("Selamat datang di web portofolio saya");
 const navSlide = () => {
     const burger = document.querySelector(".burger");
     const navLists = document.querySelector("nav");
