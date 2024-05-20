@@ -95,7 +95,7 @@
   .hero-name {
     font-size: 2rem;
     font-weight: 500;
-    margin-bottom: 0.5rem;
+    /* margin-bottom: 0.5rem; */
   }
   .serrvices{
     width: 10px;

@@ -138,7 +138,6 @@ nav ul li a:hover{
 .hero-name{
     font-size: 3rem;
     font-weight: 700;
-    margin: .5rem 0 1rem;
 }
 .hero-name span{
     color: var(--pIconColor);
